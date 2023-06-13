@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConstraintLayoutRegistrationForm</string>
+    <string-array name="countries">
+        <item>--SELECT YOUR COUNTRY--</item>
+        <item>India</item>
+        <item>America</item>
+        <item>Russia</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Sri Lanka</item>
+    </string-array>
+
+</resources>
